@@ -26,6 +26,15 @@ background-color: lightblue;
 
 #pants{
     z-index:-1;
-    height: 600px;
     
+    
+}
+#ariana{
+    width: 400px;
+    height: 800px;
+}
+#big{
+    height: 500px;
+    width: 400px;
+    transform: rotate(7.5deg);
 }
